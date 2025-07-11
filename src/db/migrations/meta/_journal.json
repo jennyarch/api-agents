@@ -15,6 +15,13 @@
       "when": 1752084794372,
       "tag": "0001_neat_human_fly",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752241826051,
+      "tag": "0002_needy_wind_dancer",
+      "breakpoints": true
     }
   ]
 }
